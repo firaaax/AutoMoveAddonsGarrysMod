@@ -12,7 +12,7 @@
    - Displays success or error messages for each move.
   
 3. **Bypass Bans:**
-   - Bypass globanBan by removing specific addons (features soon available)
+   - Bypass globanBan by removing specific addons **(features soon available)**
 
 The script includes an interactive menu function allowing the user to choose between the two options. Additionally, it incorporates validation to ensure the user enters only valid values (1 or 2). Upon completion, the script provides a summary indicating the number of folders moved successfully and the number of errors, if any.
 
